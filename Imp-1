@@ -1,0 +1,6 @@
+function calculadora(operacion, num1, num2){if(operacion == "suma"){
+        return num1+num2
+    }else if(operacion == "resta"){
+        return num1 - num2
+    }
+}
