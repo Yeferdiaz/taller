@@ -11,3 +11,7 @@ CAMBIO 4 DE README
 Cambio 1 de README en rama1
 
 Cambio 2 de README en rama1
+
+Cambio 1 de README en RAMA2
+
+Cambio 2 de README en RAMA2
