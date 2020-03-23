@@ -1,6 +1,27 @@
-s# creado desde git init
+Cambio 1 de README
 
-Taller para primero corte
+cambio 2 de README
 
-1 cambio en README MASTER luego de reset (yeferson )
+Cambio 3 de README
 
+CAMBIO 4 DE README
+
+Cambio 1 de README en rama1
+
+Cambio 2 de README en rama1
+
+Cambio 1 de README en RAMA2
+
+Cambio 2 de README en RAMA2
+
+Cambio 3 de README en rama1
+
+Cambio 4 de README EN rama1
+
+Cambio 5 de Readme en Rama 1
+
+Cambio 1 de README en RAMA2
+
+cambio 2 de README en RAMA2
+
+cambio 6 de README en REDICYEF
